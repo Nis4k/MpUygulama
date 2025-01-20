@@ -18,6 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 ###video
 https://youtu.be/o7xARLZZfhI
 
+##Proje sahipleri
+132330012 Yağmur Cemre Yamalı YBS 2.sınıf
+132330039 Hayrunnisa Ak YBS 2. sınıf
+
 ##proje açıklama
 projede çamaşırhane randevu sistemi oluşturduk. Amacımız kağıt üzerinde ve önceki günlerden randevu alamadığımız normal sistemi
 geliştirmek ve uygulamayla kolay hale getirmek.Öğrenci oda numarasını ve adını girerek randevu alma işlemine geçiş yapyor gün ve saati seçtikten sonra eğer o haftadaki randevu hakkını kullanmadıysa randevu alma işlemini yapabiliyor.
